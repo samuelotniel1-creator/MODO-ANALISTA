@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "Modo Analista",
+  "short_name": "ModoAnalista",
+  "description": "Centro de mando personal — contenido, ideas, calendario y LeadRadar",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080B0F",
+  "theme_color": "#080B0F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
